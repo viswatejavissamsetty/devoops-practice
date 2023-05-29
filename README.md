@@ -34,7 +34,7 @@ http://localhost:5000/api1
 
 ## Open below url to test api2 keys
 
-http://localhost:5000/api2
+http://localhost:5001/api2
 
 ```json
 {
